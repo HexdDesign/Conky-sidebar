@@ -13,13 +13,16 @@ This widget stays on left side of screen unless you kill it manually in terminal
 or configure your own position.
 
 
+
 **CONKY WIKI**
 
 [Conky Wiki](https://wiki.archlinux.org/title/Conky)
 
+
 **CONKY.CC**
 
 [Conky Webpage](https://conky.cc/)
+
 
 **GITHUB CONKY**
 
@@ -40,6 +43,12 @@ _Required_
 :light_blue_heart: Cava
 
 :light_blue_heart: Nerd Fonts (Hack) & Roboto font
+
+:light_blue_heart: Pulseaudio
+
+:light_blue_heart: Pipewire
+
+
 
 ![Conky](asdd.png)
 
