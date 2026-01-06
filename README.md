@@ -8,6 +8,7 @@ Contains an image beside the date and time, your Linux distro, CPU processes, Me
 
 This widget stays on left side of screen unless you kill it manually ( killall conky ) or configure your own position.
 
+
 **CONKY WIKI**
 
 [Conky Wiki](https://wiki.archlinux.org/title/Conky)
@@ -19,6 +20,7 @@ This widget stays on left side of screen unless you kill it manually ( killall c
 **GITHUB CONKY**
 
 [GitHub Conky Wiki](https://github.com/brndnmtthws/conky/wiki)
+
 
 
 _Required_
