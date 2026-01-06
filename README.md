@@ -22,6 +22,11 @@ This widget stays on left side of screen unless you kill it manually ( killall c
 [GitHub Conky Wiki](https://github.com/brndnmtthws/conky/wiki)
 
 
+**GITHUB CAVA MUSIC VISUALIZER**
+[Cava Github](https://github.com/karlstav/cava)
+
+
+
 
 _Required_
 
