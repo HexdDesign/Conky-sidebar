@@ -25,3 +25,4 @@ _Required_
 
 :light_blue_heart: Nerd Fonts (Hack) & Roboto font
 
+![Conky](asdd.png)
