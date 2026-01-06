@@ -26,3 +26,5 @@ _Required_
 :light_blue_heart: Nerd Fonts (Hack) & Roboto font
 
 ![Conky](asdd.png)
+
+[ I am using Linux Archcraft & i3wm ]
