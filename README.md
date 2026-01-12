@@ -6,11 +6,11 @@ A sidebar made with Conky that displays processes as a widget
 Contains an image beside the date and time, your Linux distro, CPU processes, Memory, Disc space, and a Cava music player at the bottom that displays jumping bars with music. 
 (I am using pulseaudio with pipewire, please config to your own music player if necessary)
 
-This widget stays on left side of screen unless you kill it manually in terminal 
+This widget stays on right side of screen unless you kill it manually in terminal 
 
 ( killall conky )
 
-or configure your own position.
+or configure your own position. (top-left, top-right, center, etc.)
 
 
 
