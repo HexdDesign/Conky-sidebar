@@ -50,6 +50,6 @@ _Required_
 
 
 
-![Conky](asdd.png)
+![Conky](2026-01-11_09-31_1.png)
 
 [ I am using Linux Archcraft & i3wm ]
