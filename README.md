@@ -10,7 +10,7 @@ This widget stays on right side of screen unless you kill it manually in termina
 
 ( killall conky )
 
-or configure your own position. (top-left, top-right, center, etc.)
+or configure your own position. (top_left, top_right, center, etc.)
 
 
 
